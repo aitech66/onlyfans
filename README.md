@@ -6,4 +6,4 @@ The content is added from time to time.
 
 # Archives
 
-All archives are qzip2-ed for max compression. All parts are independent (no multivolume archives).
+Selected content, sorted by rip download time. All archives are qzip2-ed for max compression. All parts are independent (no multivolume archives).
